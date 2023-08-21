@@ -1,7 +1,7 @@
 
 <img src="./assets/preview.jpg">
-<p>🚀 Tecnologias
-Esse projeto foi desenvolvido com as seguintes tecnologias:</p>
+<p>🚀 Tecnologias </p>
+<p>Esse projeto foi desenvolvido com as seguintes tecnologias:</p>
 <ul>
 <li>HTML e CSS</li>
 <li>JavaScript</li>
@@ -9,10 +9,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:</p>
 <li>Figma</li>
 </ul>
 
-<p>💻 Projeto
-O DevLinks é um agregador de links para usar como cartão de visitas online.</p>
+<p>💻 Projeto</p>
+<p>O DevLinks é um agregador de links para usar como cartão de visitas online.</p>
 
-<p>📝 Licença
-Esse projeto está sob a licença MIT.</p>
+<p>📝 Licença</p>
+<p>Esse projeto está sob a licença MIT.</p>
 
 <p>Esse projeto faz parte do Curso Discover desenvolvido pela Rocketseat.</p>
