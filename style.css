@@ -39,8 +39,8 @@ body{
   4º position
   5º size (usar /)
   */
-  background: var(--bg-url) no-repeat top center/cover;
-  height: 100vh;
+ background: var(--bg-url) no-repeat top center/cover;
+  height: 100vh; 
 }
 
 body *{
